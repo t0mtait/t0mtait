@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A passionate Computer Science student @ [UNB](https://www.unb.ca) </h3>
+<h3 align="center">A passionate Computer Science student @ <a href="https://www.unb.ca">UNB</a> </h3>
+
 
 - 🔭 I’m currently working at [Sonrai Security](https://sonraisecurity.com/)
 
