@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [https://tomtait.dev](https://tomtait.dev)
+- 👨‍💻 All of my projects are available at [https://www.tomtait.dev/](https://tomtait.dev)
 
 - 📫 How to reach me **tomjtait@outlook.com**
 
