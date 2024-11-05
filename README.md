@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student @ <a href="https://www.unb.ca">UNB</a></h3>
 
 
-- 🔭 I’m currently working at [Sonrai Security](https://sonraisecurity.com/)
+- 🔭 I’m currently studying @ UNB
 
 - 🌱 I’m currently learning **web development**
 
