@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying @ UNB
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently working @ <a href="[https://www.verosource.com]">Verosource</a>
 
 - 👨‍💻 All of my projects are available at [tomtait.dev](https://www.tomtait.dev/)
 
