@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently working @ <a href="https://www.verosource.com">Verosource</a>
 
-- 👨‍💻 All of my projects are available at [tomtait.dev](https://www.tomtait.dev/)
-
 - 📫 How to reach me **tomjtait@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
