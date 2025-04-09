@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working @ <a href="https://www.verosource.com">Verosource</a>
 
-- 📫 How to reach me **tomjtait@outlook.com**
+- 📫 How to reach me **tomjt@tuta.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
