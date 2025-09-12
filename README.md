@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently studying @ UNB
 
-- 🌱 I’m currently working @ <a href="https://www.verosource.com">Verosource</a>
-
 - 📫 How to reach me **tomjtait@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
