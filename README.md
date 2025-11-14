@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying @ UNB
 
-- 📫 How to reach me **tomjtait@outlook.com**
+- 📫 How to reach me **mail@tomjt.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
